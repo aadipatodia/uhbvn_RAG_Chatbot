@@ -1,0 +1,15 @@
+google-generativeai
+python-docx
+langchain
+sentence-transformers
+faiss-cpu
+requests
+streamlit
+python-dotenv
+numpy
+chromadb
+langchain-community
+fastapi
+uvicorn
+websockets
+python-dotenv
